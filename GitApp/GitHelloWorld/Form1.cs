@@ -15,6 +15,7 @@ namespace GitHelloWorld
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("you are very good");
         }
     }
 }
