@@ -3,18 +3,22 @@
 }
 @Model MvcTest.Models.Order
 <!DOCTYPE html>
-
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
     <title></title>
 </head>
 <body>
+    <form method="post" action="~/Home/Index">
     <div>
     <fieldset>
         <legend>Default Order</legend>
         @Html.EditorForModel()
+
     </fieldset>
     </div>
+        <input type="submit" name="提交" value="提交" />
+        </form>
+            
 </body>
 </html>
