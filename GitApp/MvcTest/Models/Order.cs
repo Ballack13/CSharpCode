@@ -54,9 +54,9 @@ namespace MvcTest.Models
             {
                 OrderId=20130207,
                 OrderDate=DateTime.Parse("2013-02-06"),
-                UserName="kabaskimy",
+                UserName="Ballack",
                 FirstName="许",
-                LastName="星星",
+                LastName="三多",
                 Address="深圳市南山区",
                 City="湖北黄冈",
                 State="中国",
@@ -91,9 +91,9 @@ namespace MvcTest.Models
             {
                 OrderId=20130206,
                 OrderDate=DateTime.Parse("2013-02-05"),
-                UserName="kabaskimy",
+                UserName="Ballack",
                 FirstName="许",
-                LastName="星星",
+                LastName="三多",
                 Address="深圳市南山区",
                 City="湖北黄冈",
                 State="中国",
