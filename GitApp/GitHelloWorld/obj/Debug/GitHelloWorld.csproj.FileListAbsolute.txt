@@ -5,4 +5,3 @@ F:\CodeProject\GitProject\GitHelloWorld\GitApp\GitHelloWorld\obj\Debug\GitHelloW
 F:\CodeProject\GitProject\GitHelloWorld\GitApp\GitHelloWorld\obj\Debug\GitHelloWorld.csproj.GenerateResource.Cache
 F:\CodeProject\GitProject\GitHelloWorld\GitApp\GitHelloWorld\obj\Debug\GitHelloWorld.exe
 F:\CodeProject\GitProject\GitHelloWorld\GitApp\GitHelloWorld\obj\Debug\GitHelloWorld.pdb
-F:\CodeProject\GitProject\GitHelloWorld\GitApp\GitHelloWorld\obj\Debug\GitHelloWorld.csprojResolveAssemblyReference.cache

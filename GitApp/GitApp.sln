@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHelloWorld", "GitHelloWo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTest", "MvcTest\MvcTest.csproj", "{20101C10-57BD-4DBC-84A5-DD622FA46A9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites", "PartyInvites\PartyInvites.csproj", "{2B1FDD07-8840-483D-ABB4-F26EBC9F57C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTest.ExtensionMethod", "MvcTest.ExtensionMethod\MvcTest.ExtensionMethod.csproj", "{F6EEDA08-3F58-47ED-98DA-A41093DB92B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{20101C10-57BD-4DBC-84A5-DD622FA46A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20101C10-57BD-4DBC-84A5-DD622FA46A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20101C10-57BD-4DBC-84A5-DD622FA46A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1FDD07-8840-483D-ABB4-F26EBC9F57C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1FDD07-8840-483D-ABB4-F26EBC9F57C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1FDD07-8840-483D-ABB4-F26EBC9F57C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1FDD07-8840-483D-ABB4-F26EBC9F57C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EEDA08-3F58-47ED-98DA-A41093DB92B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EEDA08-3F58-47ED-98DA-A41093DB92B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EEDA08-3F58-47ED-98DA-A41093DB92B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EEDA08-3F58-47ED-98DA-A41093DB92B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

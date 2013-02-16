@@ -1,0 +1,5 @@
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest.ExtensionMethod\bin\Debug\MvcTest.ExtensionMethod.exe.config
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest.ExtensionMethod\bin\Debug\MvcTest.ExtensionMethod.exe
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest.ExtensionMethod\bin\Debug\MvcTest.ExtensionMethod.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest.ExtensionMethod\obj\Debug\MvcTest.ExtensionMethod.exe
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest.ExtensionMethod\obj\Debug\MvcTest.ExtensionMethod.pdb

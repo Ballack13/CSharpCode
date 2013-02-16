@@ -1,16 +1,23 @@
-﻿@{
-    ViewBag.Title = "Login";
+﻿@model MvcTest.Models.User
+
+@{
     Layout = null;
 }
-@Model MvcTest.Models.User
 
-<h2>Login</h2>
-<div>
-    <form method="post" acton="">
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+     <form method="post" acton="">
         <fieldset>
             <legend>User Login</legend>
         @Html.EditorForModel()
          </fieldset>
         <input type="submit" name="提交" value="提交"/>
     </form>
-</div>
+</body>
+</html>
