@@ -1,0 +1,53 @@
+﻿@model MVC.RazorEngine.Models.Product
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DemoExpression</title>
+</head>
+<body>
+    <div>
+        <table>
+<thead>
+<tr><th>Property</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Name</td><td>@Model.Name</td></tr>
+<tr><td>Price</td><td>@Model.Price</td></tr>
+<tr>
+<td>Stock Level</td>
+<td>
+    @switch((int)@ViewBag.ProductCount){
+        case 0:
+            @: Out Of Stock
+            break;
+        case 1:
+            @: In Low Level(@ViewBag.ProductCount)
+            break;
+            default:
+            @ViewBag.ProductCount
+            break;
+            }
+</td>
+</tr>
+</tbody>
+</table>
+        <div>
+            @if ((int)ViewBag.ProductCount>1)
+            {
+                @ViewBag.ProductCount
+            } 
+            else if((int)ViewBag.ProductCount==1)
+            {
+                @:Low Level In Stock(@ViewBag.ProductCount)
+            }
+            else 
+            {
+                    @: Out Of Stock
+            }
+        </div>
+    </div>
+</body>
+</html>

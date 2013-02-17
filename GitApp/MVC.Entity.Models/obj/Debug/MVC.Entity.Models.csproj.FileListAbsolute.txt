@@ -1,0 +1,5 @@
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Entity.Models\bin\Debug\MVC.Entity.Models.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Entity.Models\bin\Debug\MVC.Entity.Models.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Entity.Models\obj\Debug\MVC.Entity.Models.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Entity.Models\obj\Debug\MVC.Entity.Models.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Entity.Models\obj\Debug\MVC.Entity.Models.csprojResolveAssemblyReference.cache

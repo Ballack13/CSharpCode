@@ -1,0 +1,10 @@
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\bin\Debug\MVC.Infrastructure.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\bin\Debug\MVC.Infrastructure.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\bin\Debug\Ninject.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\bin\Debug\Ninject.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\bin\Debug\Ninject.xml
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\obj\Debug\MVC.Infrastructure.csprojResolveAssemblyReference.cache
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\obj\Debug\MVC.Infrastructure.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\obj\Debug\MVC.Infrastructure.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\bin\Debug\MVC.Entity.Models.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Infrastructure\bin\Debug\MVC.Entity.Models.pdb

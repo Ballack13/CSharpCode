@@ -1,0 +1,41 @@
+﻿@model MVC.RazorEngine.Models.Product[]
+@{
+    string TestString = "this is a test string";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DemoArray</title>
+</head>
+<body>
+    <div>
+        @if (Model.Length > 0)
+        {
+            <table>
+                <thead>
+                    <tr>
+                           <th>Product</th>
+                           <th>Price</th>
+                    </tr>
+                </thead>
+                @foreach (MVC.RazorEngine.Models.Product product in Model)
+                {
+                    <tr>
+                        <td>
+                            @product.Name
+                        </td>
+                        <td>$@product.Price</td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            @:<p>No Product Data</p>
+        }
+    </div>
+</body>
+</html>

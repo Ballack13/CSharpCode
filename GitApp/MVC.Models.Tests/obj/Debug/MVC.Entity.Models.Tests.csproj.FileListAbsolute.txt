@@ -1,0 +1,10 @@
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\bin\Debug\MVC.Models.Tests.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\bin\Debug\MVC.Models.Tests.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\bin\Debug\MVC.Entity.Models.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\bin\Debug\MVC.Entity.Models.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\obj\Debug\MVC.Entity.Models.Tests.csprojResolveAssemblyReference.cache
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\obj\Debug\MVC.Models.Tests.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\obj\Debug\MVC.Models.Tests.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\bin\Debug\Moq.dll
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\bin\Debug\Moq.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MVC.Models.Tests\bin\Debug\Moq.xml

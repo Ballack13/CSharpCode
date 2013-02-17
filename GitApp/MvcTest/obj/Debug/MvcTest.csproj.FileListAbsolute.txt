@@ -38,3 +38,4 @@ F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest\bin\zh-Hans\System.Web.We
 F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest\obj\Debug\MvcTest.dll
 F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest\obj\Debug\MvcTest.pdb
+F:\CodeProject\GitProject\GitHelloWorld\GitApp\MvcTest\obj\Debug\MvcTest.csprojResolveAssemblyReference.cache
